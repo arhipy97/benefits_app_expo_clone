@@ -1,5 +1,8 @@
 import { Dimensions } from 'react-native';
 
+export const HEADER_HEIGHT = 120;
+export const DISCOUNT_SCREEN_LEFT_OFFSET = 10;
+
 const width = Dimensions.get('window').width;
 const height = Dimensions.get('window').height;
 
